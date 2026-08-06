@@ -115,6 +115,6 @@ The following figures present the design and simulation of the electronic circui
 > ### Software <a name = 'soft'></a>
 The software development phase represents the final stage of the robot design process. After all mechanical and electronic components were fully assembled into a complete prototype, the control program was developed to enable the Arduino to coordinate all hardware components and facilitate communication between them. The program was written, compiled, and uploaded using the Arduino IDE. Finally, the firmware was transferred to the Arduino Mega 2560 via a USB connection between the laptop and the microcontroller, allowing the robot to execute all designed functionalities. 
 
-The complete source code developed for this project is available in the Source Code directory of this repository, providing the full implementation of the proposed system.
+The complete source code developed for this project is available in the [Source Code](https://github.com/candranaradhipa/Forklift-and-Line-Following-Robot/tree/main/Source%20Code) directory of this repository, providing the full implementation of the proposed system.
 
 ## Results
