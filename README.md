@@ -42,7 +42,7 @@ This project develops a prototype line-following forklift robot designed for aut
 | Hollow Connector | 4 |
 | 3 mm Drill Bit | 2 |
 | 10 cm Wire | 1 |
-| Korean Glue | 1 |
+| Glue | 1 |
 | Duct Tape | 1 |
 
 ## Robot 
