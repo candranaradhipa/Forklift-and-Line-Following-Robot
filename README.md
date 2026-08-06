@@ -93,20 +93,20 @@ The following figures present the design and simulation of the electronic circui
 - 12V Battery
   - Serves as the primary power supply for the DC motors, motor drivers, and servo motors. The battery is connected through a power switch and integrated with the system controlled by the Arduino Mega 2560.
 - Power Switch
-  -Functions as the main switch to connect or disconnect the battery power supply, allowing the robot to be turned on or off safely.
+  - Functions as the main switch to connect or disconnect the battery power supply, allowing the robot to be turned on or off safely.
 - L298N Motor Driver
-  -Controls the DC motors by receiving control signals from the Arduino Mega 2560 to regulate motor speed and rotation direction.
-25GA370 DC Motor
-Acts as the primary actuator for driving the robot's wheels, enabling autonomous movement along the designated path.
-Motor Encoder
-Integrated with the 25GA370 DC motors to measure motor rotation and speed, providing feedback for more accurate motion control.
-MG996R Servo Motor
-Provides high-precision movement for the forklift mechanism. It controls the tilting motion of the forklift when lifting and lowering materials through an Arduino PWM signal.
-TCRT5000 Sensor
-Functions as the line-following sensor by detecting the black line on the track, enabling autonomous navigation.
-16×2 LCD and Keypad
-The LCD displays the user interface, system menu, and battery percentage, while the keypad allows users to navigate the menu and execute robot commands.
-I²C Module
-Provides communication between the LCD and the Arduino Mega 2560, reducing the number of required I/O pins and ensuring stable data transmission.
-10 kΩ and 12 kΩ Resistors
-Configured as a voltage divider to monitor the battery voltage, allowing the Arduino to calculate and display the battery percentage on the LCD.
+  - Controls the DC motors by receiving control signals from the Arduino Mega 2560 to regulate motor speed and rotation direction.
+- 25GA370 DC Motor
+  - Acts as the primary actuator for driving the robot's wheels, enabling autonomous movement along the designated path.
+- Motor Encoder
+  - Integrated with the 25GA370 DC motors to measure motor rotation and speed, providing feedback for more accurate motion control.
+- MG996R Servo Motor
+  - Provides high-precision movement for the forklift mechanism. It controls the tilting motion of the forklift when lifting and lowering materials through an Arduino PWM signal.
+- TCRT5000 Sensor
+  - Functions as the line-following sensor by detecting the black line on the track, enabling autonomous navigation.
+- 16×2 LCD and Keypad
+  - The LCD displays the user interface, system menu, and battery percentage, while the keypad allows users to navigate the menu and execute robot commands.
+- I²C Module
+  - Provides communication between the LCD and the Arduino Mega 2560, reducing the number of required I/O pins and ensuring stable data transmission.
+- 10 kΩ and 12 kΩ Resistors
+  - Configured as a voltage divider to monitor the battery voltage, allowing the Arduino to calculate and display the battery percentage on the LCD.
