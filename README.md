@@ -70,11 +70,11 @@ The following images show the complete 3D model of the robot together with its e
 
 
 - Engineering Drawing
-<img width="2048" height="947" alt="image" src="https://github.com/user-attachments/assets/5080fbaf-83a9-497a-84b2-dde6a51bf4e3" />
+<img width="409" height="189" alt="image" src="https://github.com/user-attachments/assets/5080fbaf-83a9-497a-84b2-dde6a51bf4e3" />
 
 
 - Laser Cutting
-<img width="2296" height="4080" alt="20231120_145343" src="https://github.com/user-attachments/assets/7eff5077-ee79-4fad-95fa-be79ca7de579" />
+<img width="459.2" height="816" alt="20231120_145343" src="https://github.com/user-attachments/assets/7eff5077-ee79-4fad-95fa-be79ca7de579" />
 
 
 
