@@ -91,7 +91,7 @@ The following figures present the design and simulation of the electronic circui
 
 #### Component Functions
 - 12V Battery
-  -Serves as the primary power supply for the DC motors, motor drivers, and servo motors. The battery is connected through a power switch and integrated with the system controlled by the Arduino Mega 2560.
+  - Serves as the primary power supply for the DC motors, motor drivers, and servo motors. The battery is connected through a power switch and integrated with the system controlled by the Arduino Mega 2560.
 - Power Switch
   -Functions as the main switch to connect or disconnect the battery power supply, allowing the robot to be turned on or off safely.
 - L298N Motor Driver
