@@ -82,8 +82,8 @@ The following images show the complete 3D model of the robot together with its e
 The electrical design phase focused on integrating all electronic components through jumper-wire connections on a mini breadboard. The Arduino Uno served as the central controller, managing communication and data exchange between the system components. Before being implemented on the physical prototype, the electronic circuit was first validated using Proteus simulation software to verify the functionality, connectivity, and overall performance of each component. Once the simulation results were satisfactory, the circuit was assembled and integrated into the robot prototype.
 
 The following figures present the design and simulation of the electronic circuit using Proteus, along with its physical implementation on the robot prototype, demonstrating the realization of the developed system design.
-<img width="1225" height="876" alt="image" src="https://github.com/user-attachments/assets/85763131-d28a-4967-9811-b0c5aae970bc" />
-<img width="3840" height="2160" alt="IMG-20231009-WA0006" src="https://github.com/user-attachments/assets/03dcfd8b-c5ba-4046-983a-df07b1902784" />
+<img width="612.5" height="438" alt="image" src="https://github.com/user-attachments/assets/85763131-d28a-4967-9811-b0c5aae970bc" />
+<img width="640" height="360" alt="IMG-20231009-WA0006" src="https://github.com/user-attachments/assets/03dcfd8b-c5ba-4046-983a-df07b1902784" />
 
 
 
