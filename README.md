@@ -127,4 +127,14 @@ https://github.com/user-attachments/assets/dd95b45c-40da-4a4f-adf9-d42e022e0fd6
 https://github.com/user-attachments/assets/6198d68a-f7ee-4768-a3fc-842895fe6263
 
 
+## Contributor
+| Job Description | Name | Contact |
+|---------------|-------------|-------------|
+| **Team Leader** | [Safa Saviera Sulaiman](https://github.com/safasavieraa) ||
+| **Electrical** | Klara Setyajati ||
+| **Mechanical** | [Kyrieleison Charla Frans](https://github.com/KyrieleisonFrans) (Base)<br> [Alfa Noora Fithria](https://github.com/bluefrappucino) | <kyrieleison.frans@gmail.com> |
+| **Software** | Sunan Sheva Teguh Setiadi |
+| **Manufacture** | [Candra Naradhipa Cahyakusuma](https://github.com/candranaradhipa) | <candradhipa16@gmail.com> |
+
+[Robotics and AI Engineering](https://ftmm.unair.ac.id/teknik-robotika-dan-kecerdasan-buatan-program-studi/), [Universitas Airlangga](https://unair.ac.id/)
 
