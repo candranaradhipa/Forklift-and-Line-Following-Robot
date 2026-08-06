@@ -60,4 +60,8 @@ This project develops a prototype line-following forklift robot designed for aut
 | **Wheels** | • 25GA370 drive wheels (2 units)<br>• Caster wheel (1 unit) |
 
 ### Mechanical and Design
+The robot was designed using [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview) as the primary 3D modeling software. The design process was divided into two main stages: the base design, which serves as the robot's main structure, and the forklift design, which functions as the material handling mechanism. Several small supporting components were obtained from [GrabCAD](https://grabcad.com/library) and integrated into the overall assembly to create a complete robotic system. After the design phase was completed, the robot's base was fabricated using laser cutting technology with the assistance of [RDWorks](https://www.rdacs.com/en/download?type=software) software. Finally, all components were assembled through the manufacturing process to produce a fully functional robot prototype.
+
+The following images show the complete 3D model of the robot together with its engineering drawings, providing a detailed overview of the robot's mechanical design.
+
 <img width="520" height="455" alt="Screenshot 2026-08-06 223630" src="https://github.com/user-attachments/assets/d9ba39e1-dc96-40f1-b901-6e659064dc4e" />
