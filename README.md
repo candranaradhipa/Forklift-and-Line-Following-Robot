@@ -78,7 +78,7 @@ The following images show the complete 3D model of the robot together with its e
 #### Laser Cutting
 <img width="459.2" height="816" alt="20231120_145343" src="https://github.com/user-attachments/assets/7eff5077-ee79-4fad-95fa-be79ca7de579" />
 
-
+Due to GitHub's file size limitations, the project files have been uploaded to [Google Drive](https://drive.google.com/drive/folders/1FPVimtD9b8ttk-RFd2ZUUYt0dnfM8Jfg) and can be accessed.
 
 > ### Electrical <a name = 'elecs'></a>
 The electrical design phase focused on integrating all electronic components through jumper-wire connections on a mini breadboard. The Arduino Uno served as the central controller, managing communication and data exchange between the system components. Before being implemented on the physical prototype, the electronic circuit was first validated using Proteus simulation software to verify the functionality, connectivity, and overall performance of each component. Once the simulation results were satisfactory, the circuit was assembled and integrated into the robot prototype.
@@ -118,3 +118,14 @@ The software development phase represents the final stage of the robot design pr
 The complete source code developed for this project is available in the [Source Code](https://github.com/candranaradhipa/Forklift-and-Line-Following-Robot/tree/main/Source%20Code) directory of this repository, providing the full implementation of the proposed system.
 
 ## Results
+The following videos demonstrate the final result of the complete system integration. The first video shows the robot operating without the forklift mechanism, while the second video demonstrates the robot after the forklift mechanism has been integrated.
+
+> ### Video Demo without Forklift <a name = 'no-fork'></a>
+
+https://github.com/user-attachments/assets/a36cdb50-65d8-4faf-98ed-7b2c53f31b09
+
+> ### Video Demo with  Forklift <a name = 'no-fork'></a>
+
+https://github.com/user-attachments/assets/6c7f1f01-1500-47fe-97e6-51ed6824f721
+
+
