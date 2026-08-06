@@ -121,11 +121,10 @@ The complete source code developed for this project is available in the [Source 
 The following videos demonstrate the final result of the complete system integration. The first video shows the robot operating without the forklift mechanism, while the second video demonstrates the robot after the forklift mechanism has been integrated.
 
 > ### Video Demo without Forklift <a name = 'no-fork'></a>
-
-https://github.com/user-attachments/assets/a36cdb50-65d8-4faf-98ed-7b2c53f31b09
+https://github.com/user-attachments/assets/dd95b45c-40da-4a4f-adf9-d42e022e0fd6
 
 > ### Video Demo with  Forklift <a name = 'no-fork'></a>
+https://github.com/user-attachments/assets/6198d68a-f7ee-4768-a3fc-842895fe6263
 
-https://github.com/user-attachments/assets/6c7f1f01-1500-47fe-97e6-51ed6824f721
 
 
