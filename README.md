@@ -66,7 +66,7 @@ The following images show the complete 3D model of the robot together with its e
 
 - 3D Model Design and Real-World Implementation
 <img width="520" height="455" alt="Screenshot 2026-08-06 223630" src="https://github.com/user-attachments/assets/d9ba39e1-dc96-40f1-b901-6e659064dc4e" />
-<img width="1040" height="1386.666" alt="IMG-20240107-WA0009" src="https://github.com/user-attachments/assets/6f79878a-ac9f-428b-965a-b9018891a152" />
+<img width="3120" height="4160" alt="IMG-20240107-WA0009" src="https://github.com/user-attachments/assets/6f79878a-ac9f-428b-965a-b9018891a152" />
 
 
 - Engineering Drawing
