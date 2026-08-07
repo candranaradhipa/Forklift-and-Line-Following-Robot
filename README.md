@@ -76,7 +76,7 @@ The following images show the complete 3D model of the robot together with its e
 
 
 #### Laser Cutting
-<img width="459.2" height="816" alt="20231120_145343" src="https://github.com/user-attachments/assets/7eff5077-ee79-4fad-95fa-be79ca7de579" />
+<img width="520" height="924.0418118466899" alt="20231120_145343" src="https://github.com/user-attachments/assets/7eff5077-ee79-4fad-95fa-be79ca7de579" />
 
 Due to GitHub's file size limitations, the project files have been uploaded to [Google Drive](https://drive.google.com/drive/folders/1FPVimtD9b8ttk-RFd2ZUUYt0dnfM8Jfg) and can be accessed.
 
