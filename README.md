@@ -130,7 +130,7 @@ https://github.com/user-attachments/assets/6198d68a-f7ee-4768-a3fc-842895fe6263
 ## Contributor
 | Job Description | Name | Contact |
 |---------------|-------------|-------------|
-| **Team Leader** | [Safa Saviera Sulaiman](https://github.com/safasavieraa) ||
+| **Team Leader** | [Safa Saviera Sulaiman](https://github.com/safasavieraa) | <safasavieraaa@gmail.com> |
 | **Electrical** | Klara Setyajati ||
 | **Mechanical** | [Kyrieleison Charla Frans](https://github.com/KyrieleisonFrans) (Base)<br> [Alfa Noora Fithria](https://github.com/bluefrappucino) (Forklift)| <kyrieleison.frans@gmail.com> |
 | **Software** | Sunan Sheva Teguh Setiadi |
