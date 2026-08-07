@@ -85,7 +85,7 @@ The electrical design phase focused on integrating all electronic components thr
 
 The following figures present the design and simulation of the electronic circuit using Proteus, along with its physical implementation on the robot prototype, demonstrating the realization of the developed system design.
 
-<img width="520" height="515.9134615384615" alt="image" src="https://github.com/user-attachments/assets/85763131-d28a-4967-9811-b0c5aae970bc" />
+<img width="520" height="371.8530612244899" alt="image" src="https://github.com/user-attachments/assets/85763131-d28a-4967-9811-b0c5aae970bc" />
 <img width="640" height="360" alt="IMG-20231009-WA0006" src="https://github.com/user-attachments/assets/03dcfd8b-c5ba-4046-983a-df07b1902784" />
 
 
